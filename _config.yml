@@ -21,7 +21,7 @@ repository               : "allegra-saggese-econ/allegra-saggese-econ.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "2019-headshot.png"
   #name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "I am a first-year PhD student in Economics at UC Santa Cruz. My research interests are within applied microeconomics in environment, firm organization, and development."
