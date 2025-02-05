@@ -1,6 +1,6 @@
 ---
 permalink: /
-layout: single
+layout: default
 title: "Website in progress"
 author_profile: true
 redirect_from: 
