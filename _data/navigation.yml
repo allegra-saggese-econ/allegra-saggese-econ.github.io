@@ -5,7 +5,7 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
+  - title: "Research"
     url: /publications/
 
   - title: "Data"
@@ -14,8 +14,8 @@ main:
 #  - title: "Book recs"
 #    url: /books-i-read/  
 
-#  - title: "Talks"
-#    url: /talks/    
+  - title: "Public opinion"
+    url: /talks/    
 
 #  - title: "Teaching"
 #    url: /teaching/    
