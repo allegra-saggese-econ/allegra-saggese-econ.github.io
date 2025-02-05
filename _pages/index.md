@@ -16,4 +16,4 @@ I am a current first year PhD student at UC Santa Cruz. I was previously at the 
 
 CV 
 =====
-Find my CV [here]
+Find my CV [here](https://github.com/allegra-saggese-econ/allegra-saggese-econ.github.io/files/Saggese_CV_2025.pdf)
