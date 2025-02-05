@@ -1,6 +1,14 @@
 # Academic Pages
 **Academic Pages is a Github Pages template for academic websites.**
 
+ADAPTED VERSION - KEY CHANGES INCLUDE 
+(1) TITLES OF PAGES - I.E TALKS > PUBLIC OPINION and PUBLICATIONS > RESEARCH 
+(2) FONT - downloaded from google
+(3) LAYOUT of publications
+(4) NO RMD GENERATION FOR EACH PUBLICATION
+
+
+
 ![Academic Pages template example](images/homepage.png "Academic Pages template example")
 
 # Getting Started
