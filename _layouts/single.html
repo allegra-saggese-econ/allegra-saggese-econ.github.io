@@ -16,7 +16,6 @@ layout: default
 
 <div id="main" role="main">
   {% include sidebar.html %}
-  {{content}}
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
@@ -46,6 +45,7 @@ layout: default
       {% endunless %}
       
       <section class="page__content" itemprop="text">
+         {{content}}
         <!-- Area 1: Title and Citation -->
         <div class="publication-title">
           <h2>{{ page.title }}</h2>
