@@ -55,6 +55,22 @@ $sidebar-link-max-width     : 250px;
    Colors
    ========================================================================== */
 
+$bright-orange            : #FF9F1C; /* Default for download links */
+$vibrant-red              : #E71D36; /* Hover for download links */
+$teal                     : #2EC4B6; /* Hover for navbar */
+$dark-navy                : #011627; /* Default for navbar and text */
+$off-white                : #FDFFFC; /* Background */
+
+
+/* Navbar colors */
+$navbar-color             : $dark-navy; /* Default navbar text */
+$navbar-color-hover       : $teal; /* Hover navbar text */
+
+/* Header colors */
+$header-color             : $dark-navy; /* Section headers */
+$header-color-alt         : $vibrant-red; /* Alternate header color */
+
+
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
@@ -102,11 +118,12 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
+/* Link colors */
+$link-color                 : $bright-orange; /* Default link color */
+$link-color-hover           : $vibrant-red; /* Hover link color */
 $link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$masthead-link-color        : $dark-navy;
+$masthead-link-color-hover  : $teal;
 
 
 /*
