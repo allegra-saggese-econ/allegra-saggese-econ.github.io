@@ -11,4 +11,4 @@ Current Economics PhD student at UC Santa Cruz. Previously at the International 
 
 I hold an MSc in Environmental Economics and Climate Change from the LSE and a BS in Environmental Economics and Policy and BA in Rhetoric from UC Berkeley.
 
-Find my CV [here](/files/05-2025-Saggese-CV.pdf)
+Find my CV [here](/files/07-2025-Saggese-CV.pdf)
